@@ -1,0 +1,9 @@
+.btn-blue {
+	background-color: #87E5DA;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Loved by the King', cursive;
+	opacity: 0.7; 
+}
